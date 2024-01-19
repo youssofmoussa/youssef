@@ -106,12 +106,12 @@
     
     border: none;
     cursor: pointer;
-    color: black;
+    
     padding: 15px 32px;
     display: flex;
     text-align: right;
     font-size: 13px;
-    background-color: black;
+   background-color: #000;
     background-clip: text;
     color: transparent;
     position: relative;
@@ -201,9 +201,7 @@ body {
 #our-creators:hover{
     color: white ; 
 }
-#about-us:hover{
-    color: white ; 
-}
+
 #save:hover{
     color: aliceblue ;
     -webkit-background-clip: text;
